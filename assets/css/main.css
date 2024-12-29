@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+    font-family: 'Sora', sans-serif;
+  }
+
+  .banner{
+    background-image:  linear-gradient(
+      rgba(0, 0, 0, 0.5), /* Dark transparent overlay */
+      rgba(0, 0, 0, 0.5)
+    ), url('~/assets/images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    max-width: 100%;
+    background-position: center;
+  }
