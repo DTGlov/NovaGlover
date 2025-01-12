@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <div class=" h-60 w-80 shadow-xl bg-white">
+    <div class="sm:px-8">
+        <div class="h-60 w-80  shadow-xl bg-white">
             <div class="pt-4 px-4 ">
                 <UserIcon v-if="cardHeader === 'CLIENT'" class="size-5" />
                 <UserGroupIcon v-else-if="cardHeader === 'CORPORATE'" class="size-5" />
