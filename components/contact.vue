@@ -5,7 +5,7 @@
             &times;
         </button>
         <div class="relative bg-white p-6 rounded-lg shadow-lg w-full max-w-md" @click.stop>
-            <form action="https://formspree.io/f/xqaaorpn" method="POST"
+            <form action="https://formspree.io/f/mrbbwzlz" method="POST"
                 class="bg-white p-6 rounded-lg w-full max-w-md">
                 <div class="mb-4">
                     <label for="name" class="block text-gray-700 font-bold mb-2">Name</label>
