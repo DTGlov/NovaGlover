@@ -5,14 +5,15 @@
             &times;
         </button>
         <div class="relative bg-white p-6 rounded-lg shadow-lg w-full max-w-md" @click.stop>
-            <form class="bg-white p-6 rounded-lg w-full max-w-md">
+            <form action="https://formspree.io/f/xqaaorpn" method="POST"
+                class="bg-white p-6 rounded-lg w-full max-w-md">
                 <div class="mb-4">
                     <label for="name" class="block text-gray-700 font-bold mb-2">Name</label>
                     <input type="text" id="name" name="name" required
                         class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" />
                 </div>
                 <div class="mb-4">
-                    <label for="email" class="block text-gray-700 font-bold mb-2">Email</label>
+                    <label for="email" class="block text-gray-700 font-bold mb-2">Email/Contact</label>
                     <input type="email" id="email" name="email" required
                         class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500" />
                 </div>
