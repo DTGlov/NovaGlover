@@ -6,7 +6,7 @@
             </p>
         </div>
         <div class="px-8 md:px-32">
-            <p class="pt-8 text-gray-700 md:text-2xl">
+            <p class="pt-8 text-gray-700 ">
                 Welcome to NovaGlover, your trusted partner in accounting and tax solutions. Based in the heart of
                 Accra, Ghana, our firm is dedicated to delivering exceptional financial and tax advisory services
                 tailored to meet the unique needs of businesses and individuals.
