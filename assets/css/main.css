@@ -29,7 +29,6 @@ body {
     url('~/assets/images/office.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 500px;
   max-width: 100%;
   background-position: center;
 }
@@ -42,7 +41,6 @@ body {
     url('~/assets/images/about.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 500px;
   max-width: 100%;
   background-position: center;
 }

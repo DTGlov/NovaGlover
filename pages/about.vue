@@ -1,12 +1,12 @@
 <template>
     <div>
         <headerVue />
-        <div class="about flex items-center px-32">
-            <p class="text-white text-5xl w-7/12">Who We Are
+        <div class="about h-[300px] md:h-[500px] flex items-center px-8 md:px-32">
+            <p class="text-white text-2xl  md:text-5xl w-7/12">Who We Are
             </p>
         </div>
-        <div class="px-32">
-            <p class="pt-8 text-gray-700">
+        <div class="px-8 md:px-32">
+            <p class="pt-8 text-gray-700 md:text-2xl">
                 Welcome to NovaGlover, your trusted partner in accounting and tax solutions. Based in the heart of
                 Accra, Ghana, our firm is dedicated to delivering exceptional financial and tax advisory services
                 tailored to meet the unique needs of businesses and individuals.
