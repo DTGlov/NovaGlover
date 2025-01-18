@@ -5,6 +5,14 @@ export default defineNuxtConfig({
   css: ['@/assets/css/tailwind.css', '~/assets/css/main.css'],
   app: {
     head: {
+      title: 'NovaGlover',
+      meta: [
+        {
+          name: 'NovaGlover - Accounting & Tax Solutions in Accra, Ghana',
+          content:
+            'Welcome to NovaGlover, your trusted partner in accounting and tax solutions. Based in the heart of Accra, Ghana, we provide a comprehensive range of services tailored to meet the unique needs of entrepreneurs, businesses, and individuals.',
+        },
+      ],
       link: [
         {
           rel: 'stylesheet',
